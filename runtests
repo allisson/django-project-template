@@ -1,0 +1,2 @@
+#!/bin/sh
+./manage.py test # place here your local apps
