@@ -1,4 +1,7 @@
-*.log
-*.pot
 *.pyc
-local_settings.py
+*.swp
+*.sqlite3
+settings_local.py
+.DS_Store
+#media/*
+#static/*

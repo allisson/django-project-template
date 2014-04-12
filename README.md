@@ -1,7 +1,7 @@
 django-project-template
 =======================
 
-Project template for django 1.4+
+Project template for django 1.6+
 
 # How to install
 
