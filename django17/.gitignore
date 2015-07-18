@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.sqlite3
+settings_local.py
+.DS_Store
+.coverage
+#media/*
+#static/*
+__pycache__
