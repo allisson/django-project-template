@@ -1,0 +1,5 @@
+Django<1.9
+Pillow>=2.9.0
+gunicorn>=19.3.0
+coverage>=3.7.1
+psycopg2>=2.5.2
