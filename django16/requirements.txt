@@ -4,3 +4,4 @@ gunicorn>=19.3.0
 coverage>=3.7.1
 psycopg2>=2.5.2
 South>=1.0.2
+pytz>=2015.4
